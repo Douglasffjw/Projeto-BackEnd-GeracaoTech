@@ -35,7 +35,7 @@ Siga os passos abaixo para clonar e executar o projeto localmente:
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd projeto-backend
+   cd Projeto-BackEnd-GeracaoTech
    ```
 
 3. Instale as dependências:
