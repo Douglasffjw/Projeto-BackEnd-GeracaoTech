@@ -29,7 +29,7 @@ Siga os passos abaixo para clonar e executar o projeto localmente:
 1. Clone o repositório:
    
    ```bash
-   git clone https://github.com/Douglasffjw/Projeto-BackEnd.git
+   git clone https://github.com/Douglasffjw/Projeto-BackEnd-GeracaoTech.git
    ```
 
 2. Navegue até o diretório do projeto:
